@@ -4,4 +4,4 @@ jobs:
   calculate:
     runs-on: ubuntu-latest
     steps:
-      - uses: DaleSchool/practice@main
+      - uses:leechangjun3/practice@main
